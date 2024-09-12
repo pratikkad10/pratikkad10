@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pratikkad10
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Engineering
+- 👀 Exploring WebDevelopment....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratikkad10
 - 😄 Pronouns: pratik
