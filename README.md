@@ -2,7 +2,7 @@ Hi there! 👋 I'm Pratik kad.
 I'm a passionate web developer With a love for both front-end and back-end development, I aim to bridge the gap between creativity and functionality.
 
 🚀 Tech stack I love working with:
-Front-end: HTML, CSS, JavaScript
+Front-end: HTML, CSS, JavaScript, Tailwind
 Back-end: Node.js, Express.js
 Database: MySQL, MongoDB
 Other: Git, APIs, Responsive Design
