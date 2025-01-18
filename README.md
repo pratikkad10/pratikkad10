@@ -2,14 +2,14 @@ Hi there! 👋 I'm Pratik kad.
 I'm a passionate web developer With a love for both front-end and back-end development, I aim to bridge the gap between creativity and functionality.
 
 🚀 Tech stack I love working with:
-Front-end: HTML, CSS, JavaScript, Tailwind
+Front-end: HTML, CSS, JavaScript, Tailwind, React.js
 Back-end: Node.js, Express.js
 Database: MySQL, MongoDB
 Other: Git, APIs, Responsive Design
 
 🌱 Currently learning:
 Full-stack development.
-Diving deeper into modern JavaScript frameworks.
+Diving deeper into modern JavaScript frameworks such as React.js.
 
 🎯 Aspiring to:
 Build impactful web applications that make a difference.
