@@ -1,23 +1,37 @@
-Hi there! 👋 I'm Pratik kad.
-I'm a passionate web developer With a love for both front-end and back-end development, I aim to bridge the gap between creativity and functionality.
 
-🚀 Tech stack I love working with:
+
+<h2>👋 Hi, I’m Pratik Kad!</h2>
+A passionate web developer who thrives on blending creativity with functionality. I enjoy crafting seamless digital experiences, whether it’s through elegant front-end designs or robust back-end systems.
+
+<h3>💻 Tech I Love:</h3>
+
 Front-end: HTML, CSS, JavaScript, Tailwind, React.js
+
 Back-end: Node.js, Express.js
-Database: MySQL, MongoDB
-Other: Git, APIs, Responsive Design
 
-🌱 Currently learning:
-Full-stack development.
-Diving deeper into modern JavaScript frameworks such as React.js.
+Databases: MySQL, MongoDB
 
-🎯 Aspiring to:
-Build impactful web applications that make a difference.
-Continuously improve and grow with the tech community.
+Tools: Git, APIs, Responsive Design
 
-📫 Let's connect:
-GitHub: 
+<h3>🌱 Currently Exploring:</h3>
+
+Full-stack development
+
+Deepening my expertise in modern JavaScript frameworks like React.js
+
+<h3>🎯 My Goals::</h3>
+
+Build impactful web applications that solve real-world problems
+
+Grow alongside the tech community and embrace continuous learning
+
+<h3>📫 Let’s Connect!:</h3>
+
+GitHub: https://github.com/pratikkad10
+
 LinkedIn: www.linkedin.com/in/pratik-kad-808451284
+
+Looking forward to collaborating and creating something amazing together! ✨
 <!---
 pratikkad10/pratikkad10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
