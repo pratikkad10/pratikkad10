@@ -19,7 +19,7 @@ Full-stack development
 
 Deepening my expertise in modern JavaScript frameworks like React.js
 
-<h3>🎯 My Goals::</h3>
+<h3>🎯 My Goals:</h3>
 
 Build impactful web applications that solve real-world problems
 
