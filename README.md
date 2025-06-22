@@ -17,12 +17,11 @@ Tools: Git, APIs, Responsive Design
 
 Full-stack development
 
-Deepening my expertise in modern JavaScript frameworks like React.js
+Deepening my expertise in modern JavaScript libraries like React.js , Node.js
 
-<h3>🎯 My Goals:</h3>
+<h3>🎯Goals:</h3>
 
 Build impactful web applications that solve real-world problems
-
 Grow alongside the tech community and embrace continuous learning
 
 <h3>📫 Let’s Connect!:</h3>
