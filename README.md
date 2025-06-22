@@ -1,62 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&width=435&lines=Pratik+Kad+%7C+Full-Stack+Developer;Problem+Solver+%7C+Clean+Code+Advocate;Turning+Ideas+Into+Scalable+Solutions" alt="Header Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2563EB&width=550&lines=Pratik+Kad+%7C+Full-Stack+Developer;Architecting+Scalable+Web+Solutions;Engineering+Seamless+User+Experiences" alt="Professional Header Animation" />
 </div>
 
 ---
 
-### **About Me**  
-I'm a detail-oriented full-stack developer passionate about building digital solutions that marry form and function. With expertise spanning both frontend aesthetics and backend logic, I specialize in creating applications that are as performant as they are intuitive.
+### **Profile**
+I'm a passionate web developer specializing in creating seamless digital experiences. My approach combines aesthetic sensibility with technical precision, ensuring solutions that are both beautiful and robust.
 
-**What drives me:**  
-⚡ Solving complex problems with elegant code  
-🎨 Designing interfaces that delight users  
-🔄 Embracing the iterative nature of software development  
-
----
-
-### **Technical Proficiencies**
-
-| **Frontend**       | **Backend**        | **Tools & Methods**      |
-|--------------------|--------------------|--------------------------|
-| React.js           | Node.js            | Git/GitHub              |
-| JavaScript (ES6+)  | Express.js         | RESTful APIs            |
-| HTML5/CSS3        | MongoDB            | Agile Development       |
-| Tailwind CSS      | MySQL              | Responsive Design       |
-| Redux (Learning)  | Firebase           | CI/CD Pipelines         |
+**Core Strengths:**
+- ⚙️ Efficient backend systems
+- 🔄 Clean, maintainable code architecture
+- 📱 Responsive design principles
+- 🧩 State management solutions
 
 ---
 
-### **Current Focus Areas**
-- 🚀 Implementing advanced React patterns for better performance
-- 🔐 Enhancing application security in Node.js environments
-- 📱 Progressive Web App development
-- 🧪 Test-driven development (Jest/Mocha)
+### **Technical Expertise**
+
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-007AF4?style=flat&logo=react&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+#### Database Systems
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6B6B?style=flat&logo=postman&logoColor=white)
 
 ---
 
-### **Development Philosophy**
-> *"Good code is its own documentation. I strive to write solutions that are:*  
-> - **Predictable** in behavior  
-> - **Maintainable** in structure  
-> - **Extensible** for future needs  
-> *...all while meeting business objectives."*
+### **Current Learning Focus**
+- 🧠 React with Recoil state management
+- 🗃️ Making MongoDB queries lightning fast
+- 🛠️ Full-stack application architecture patterns
+- 🔐 Authentication and authorization
 
 ---
 
-### **Let's Collaborate**
-I'm particularly interested in:
-- Projects requiring full-stack JavaScript expertise
-- Startups needing MVP development
-- Legacy system modernizations
+### **Professional Approach**
+> "I believe in building solutions that:
+> - Solve real problems effectively
+> - Are scalable for future needs
+> - Deliver exceptional user experiences
+> - Maintain clean, documented codebases
+> - Utilize optimal state management strategies"
 
-**Professional inquiries:**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+---
+
+### **Let's Connect**
+I welcome opportunities for:
+- Freelance projects
+- Technical collaborations
+- Professional networking
+
+📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pratik-kad-808451284)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikkad10)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikkad10&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkad10&theme=algolia&hide_border=true" alt="GitHub Streak" width="45%"/>
-</div>
