@@ -3,7 +3,7 @@
 <h2>👋 Hi, I’m Pratik Kad!</h2>
 A passionate web developer who thrives on blending creativity with functionality. I enjoy crafting seamless digital experiences, whether it’s through elegant front-end designs or robust back-end systems.
 
-<h3>💻 Tech I Love:</h3>
+<h3>💻 Tech :</h3>
 
 Front-end: HTML, CSS, JavaScript, Tailwind, React.js
 
