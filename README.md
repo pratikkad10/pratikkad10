@@ -169,7 +169,6 @@ I value solutions that are:
 
 <img src="https://raw.githubusercontent.com/pratikkad10/pratikkad10/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
-<sub>To activate: add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to a repo named <code>pratikkad10/pratikkad10</code> — it auto-generates this snake from your contribution graph.</sub>
 
 </div>
 
